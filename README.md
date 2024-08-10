@@ -4,7 +4,7 @@
 <br>
 **_Reels Task on SQL or PowerBi_**
 <br>
-_[Reel Video]([https://drive.google.com/file/d/1pdx9dkidyLWT-PBkD9tA2G4L6vsRnnQT/view?usp=sharing](https://drive.google.com/file/d/17OCzfBkpY_5UULNZjkb1zwMghL-RyTRF/view?usp=sharing))_
+[Reel Video]([https://drive.google.com/file/d/1pdx9dkidyLWT-PBkD9tA2G4L6vsRnnQT/view?usp=sharing](https://drive.google.com/file/d/17OCzfBkpY_5UULNZjkb1zwMghL-RyTRF/view?usp=sharing))_
 <br>
 -----------------------**second Task**-----------------------------------------------------------
 <br>
@@ -12,7 +12,7 @@ _[Reel Video]([https://drive.google.com/file/d/1pdx9dkidyLWT-PBkD9tA2G4L6vsRnnQT
 <br>
 SQl Query
 <br>
-[Answers]([https://drive.google.com/file/d/1U3EflnnLdQiH2c0oK4mYv5vSeeHDlqpk/view?usp=drive_link](https://drive.google.com/file/d/1qsqawLlnql2mrWgO40tEHA_2kySS8pRm/view?usp=sharing))
+[Answers]([https://drive.google.com/file/d/1qsqawLlnql2mrWgO40tEHA_2kySS8pRm/view?usp=sharing])
 <br>
 [PPT]([https://drive.google.com/file/d/1sqS5ug-99BKlRZtxnHlKeSnsiagUqST5/view?usp=drive_link](https://docs.google.com/presentation/d/1bgp0KEST6zO3QX0RfgglQbopCqclvVyP/edit?usp=sharing&ouid=103174883143673630439&rtpof=true&sd=true))
 <br>
